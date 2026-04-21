@@ -12,7 +12,7 @@
 - Linux (básico)  
 - Python (lógica de programação)  
 - PHP, HTML, CSS  
-- MySQL  
+- SQL  
 - Instalação e configuração de sistemas operacionais  
 - Montagem e manutenção de computadores  
 
