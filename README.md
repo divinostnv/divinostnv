@@ -1,19 +1,20 @@
 # Olá, eu sou o Divino 👋
 
 🎓 Estudante de Engenharia de Software (UDF)  
-💻 Interesse em redes, suporte técnico e cibersegurança  
+💻 Focado em suporte técnico, redes de computadores e segurança da informação  
 
 ---
 
 ## 🚀 Tecnologias e conhecimentos
 
-- Python  
-- PHP, HTML, CSS  
-- MySQL  
-- Redes de computadores (TCP/IP)  
+- Redes de computadores (TCP/IP, endereçamento IP)  
 - Cisco Packet Tracer  
 - Linux (básico)  
-- Pacote Office  
+- Python (lógica de programação)  
+- PHP, HTML, CSS  
+- MySQL  
+- Instalação e configuração de sistemas operacionais  
+- Montagem e manutenção de computadores  
 
 ---
 
@@ -27,9 +28,9 @@
 
 ## 📂 Projetos em destaque
 
-🔹 Sistema Web Acadêmico  
-🔹 Projetos em Python (lógica de programação)  
-🔹 Simulação de redes (Packet Tracer)  
+🔹 Sistema Web Acadêmico (PHP + MySQL)  
+🔹 Projetos em Python (lógica e automação básica)  
+🔹 Simulação de redes com Packet Tracer  
 
 ---
 
@@ -37,5 +38,3 @@
 
 📧 divnostnv@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/divino-santana-a24721354/  
-- ⚡ Fun fact: ...
--->
