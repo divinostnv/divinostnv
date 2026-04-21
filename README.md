@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, eu sou o Divino 👋
 
-<!--
-**divinostnv/divinostnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software (UDF)  
+💻 Interesse em redes, suporte técnico e cibersegurança  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## 🚀 Tecnologias e conhecimentos
+
+- Python  
+- PHP, HTML, CSS  
+- MySQL  
+- Redes de computadores (TCP/IP)  
+- Cisco Packet Tracer  
+- Linux (básico)  
+- Pacote Office  
+
+---
+
+## 📚 Atualmente estudando
+
+- Redes de computadores  
+- Ethical Hacking  
+- Segurança da informação  
+
+---
+
+## 📂 Projetos em destaque
+
+🔹 Sistema Web Acadêmico  
+🔹 Projetos em Python (lógica de programação)  
+🔹 Simulação de redes (Packet Tracer)  
+
+---
+
+## 📫 Contato
+
+📧 divnostnv@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/divino-santana-a24721354/  
 - ⚡ Fun fact: ...
 -->
